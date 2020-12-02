@@ -1,0 +1,12 @@
+{
+  "name": "text",
+  "displayName": "text",
+  "expo": {
+    "name": "text",
+    "slug": "text",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
